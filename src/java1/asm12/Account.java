@@ -1,4 +1,4 @@
-package mainPkg;
+package java1.asm12;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package mainPkg;
+package java1.asm10;
 
 public class Player {
 	private static int id_count;

@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm09;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

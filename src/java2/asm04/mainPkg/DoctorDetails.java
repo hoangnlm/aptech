@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm04.mainPkg;
 
 import java.util.HashMap;
 

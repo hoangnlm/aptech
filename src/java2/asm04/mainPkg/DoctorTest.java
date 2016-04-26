@@ -1,6 +1,6 @@
-package mainPkg;
+package java2.asm04.mainPkg;
 
-import utilPkg.ConsoleUtils;
+import java2.asm04.utilPkg.ConsoleUtils;
 
 public class DoctorTest extends ConsoleUtils {
 

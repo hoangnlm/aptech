@@ -1,4 +1,4 @@
-package mainPkg;
+package java1.asm10;
 
 public class TestMatch extends Game {
 	private static final double PRICE = 10.55;

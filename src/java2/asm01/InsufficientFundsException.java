@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm01;
 
 public class InsufficientFundsException extends Exception{
 

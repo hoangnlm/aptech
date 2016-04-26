@@ -1,6 +1,6 @@
-package orderPkg;
+package java1.asm09.orderPkg;
 
-import cdPkg.CompactDisc;
+import java1.asm09.cdPkg.CompactDisc;
 
 public class OrderToy extends CompactDisc {
 	private int qty;

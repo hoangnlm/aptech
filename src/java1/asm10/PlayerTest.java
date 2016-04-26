@@ -1,4 +1,4 @@
-package mainPkg;
+package java1.asm10;
 
 public class PlayerTest {
 	public static void main(String[] args) {

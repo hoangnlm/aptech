@@ -1,4 +1,4 @@
-package mainPkg;
+package java1.asm11;
 
 public class Toy implements ITesting {
 	private static int count;

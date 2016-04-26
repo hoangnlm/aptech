@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm11;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm02;
 
 import java.util.Scanner;
 

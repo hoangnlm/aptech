@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm05;
 
 import java.io.Serializable;
 

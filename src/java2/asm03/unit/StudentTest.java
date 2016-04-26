@@ -1,8 +1,8 @@
-package unit;
+package java2.asm03.unit;
 
-import data.Student;
-import library.StudentList;
-import utilPkg.ConsoleUtils;
+import java2.asm03.data.Student;
+import java2.asm03.library.StudentList;
+import java2.asm03.utilPkg.ConsoleUtils;
 
 public class StudentTest extends ConsoleUtils {
 

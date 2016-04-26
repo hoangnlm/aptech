@@ -1,4 +1,4 @@
-package cdPkg;
+package java1.asm09.cdPkg;
 
 public class CompactDisc {
 	private static int cd_count;

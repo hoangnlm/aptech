@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm09;
 
 public class Employee {
 	private int id;

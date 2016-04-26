@@ -1,6 +1,6 @@
-package data;
+package java2.asm03.data;
 
-import utilPkg.ValUtils;
+import java2.asm03.utilPkg.ValUtils;
 
 public class Student extends ValUtils {
 	private static int count;

@@ -1,9 +1,9 @@
-package library;
+package java2.asm03.library;
 
 import java.util.LinkedList;
 import java.util.Map.Entry;
 import java.util.TreeMap;
-import data.Student;
+import java2.asm03.data.Student;
 
 public class StudentList {
 	private TreeMap<Integer, Student> students = new TreeMap<>();

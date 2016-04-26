@@ -1,4 +1,4 @@
-package mainPkg;
+package java1.asm10;
 
 public class WorldCup extends Game {
 	private static final double PRICE = 23.79;

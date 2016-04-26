@@ -1,6 +1,6 @@
-package mainPkg;
+package java2.asm04.mainPkg;
 
-import utilPkg.ValUtils;
+import java2.asm04.utilPkg.ValUtils;
 
 public class Doctor extends ValUtils {
 	private String code, name, spec;

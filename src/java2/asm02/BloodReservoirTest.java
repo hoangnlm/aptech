@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm02;
 
 public class BloodReservoirTest extends ConsoleUtils {
 	public static void main(String[] args) {

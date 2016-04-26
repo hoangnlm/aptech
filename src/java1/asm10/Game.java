@@ -1,4 +1,4 @@
-package mainPkg;
+package java1.asm10;
 
 public abstract class Game {
 	public abstract double calculateIncome(int numGames);

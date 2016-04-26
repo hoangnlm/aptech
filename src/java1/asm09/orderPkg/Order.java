@@ -1,8 +1,6 @@
-package orderPkg;
+package java1.asm09.orderPkg;
 
 import java.util.ArrayList;
-
-import cdPkg.CompactDisc;
 
 public class Order {
 	private static int order_count, cust_count;

@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm07;
 
 public class TransferManager {
 	private CustomerAccount account1, account2;

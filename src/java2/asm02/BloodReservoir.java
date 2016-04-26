@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm02;
 
 public class BloodReservoir {
 	private double costPerUnit;

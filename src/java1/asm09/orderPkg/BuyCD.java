@@ -1,9 +1,8 @@
-package orderPkg;
+package java1.asm09.orderPkg;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
-import cdPkg.CompactDisc;
+import java1.asm09.cdPkg.CompactDisc;
 
 public class BuyCD {
 	public static void main(String[] args) {

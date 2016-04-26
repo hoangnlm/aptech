@@ -1,4 +1,4 @@
-package mainPkg;
+package java2.asm11;
 
 public class Product {
 	private String name;
